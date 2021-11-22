@@ -1,0 +1,9 @@
+﻿  internal.cpp
+C:\Users\xWZR\Desktop\Crapware\pasteshit\file.h(117,2): warning C4091: "static ": Ignoriert auf der linken Seite von "File", wenn keine Variable deklariert wurde
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Code wird generiert...
+  ImGui DirectX 11 Kiero Hook.vcxproj -> C:\Users\xWZR\Desktop\Crapware\x64\Debug\CrapWare.dll
